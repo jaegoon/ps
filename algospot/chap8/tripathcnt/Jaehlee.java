@@ -1,4 +1,4 @@
-package gitStudy.acmicpc.algospot.chap8.trianglepath;
+package ps.algospot.chap8.tripathcnt;
 
 import java.lang.*;
 import java.io.*;

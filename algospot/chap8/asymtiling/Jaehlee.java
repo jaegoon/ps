@@ -1,4 +1,5 @@
-package gitStudy.acmicpc.algospot.chap8.asymtiling;
+package ps.algospot.chap8.asymtiling;
+
 import java.lang.*;
 import java.io.*;
 import java.util.*;

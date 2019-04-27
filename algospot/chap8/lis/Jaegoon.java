@@ -1,4 +1,5 @@
-package ps.algospot.chat8.lis;
+package ps.algospot.chap8.lis;
+
 import java.lang.*;
 import java.util.*;
 import java.io.*;

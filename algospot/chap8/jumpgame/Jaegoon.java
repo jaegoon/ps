@@ -1,4 +1,5 @@
-package ps.algospot.chat8.jumpgame;
+package ps.algospot.chap8.jumpgame;
+
 import java.lang.*;
 import java.util.*;
 import java.io.*;

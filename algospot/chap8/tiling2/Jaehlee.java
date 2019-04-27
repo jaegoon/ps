@@ -1,4 +1,4 @@
-package gitStudy.acmicpc.algospot.chap8.tiling2;
+package ps.algospot.chap8.tiling2;
 
 import java.lang.*;
 import java.io.*;

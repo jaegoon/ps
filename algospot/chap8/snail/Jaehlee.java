@@ -1,4 +1,5 @@
-package gitStudy.acmicpc.algospot.chap8.snail;
+package ps.algospot.chap8.snail;
+
 import java.lang.*;
 import java.io.*;
 import java.util.*;
